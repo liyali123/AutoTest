@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="TestSuite" time="1.118" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\develop\Java\jdk1.8.0_231\jre\bin"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\git_space\muke\AutoTest\Chapter5"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="D:\git_space\muke\AutoTest\Chapter5"/>
+    <property name="java.endorsed.dirs" value="D:\develop\Java\jdk1.8.0_231\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="D:\git_space\muke\AutoTest\Chapter5\target\surefire\surefirebooter7382269619050460030.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\develop\Java\jdk1.8.0_231\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\bigDate_app\Git\mingw64\bin;D:\bigDate_app\Git\usr\bin;C:\Users\Administrator\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\develop\Java\jdk1.8.0_231\bin;D:\jmeter\apache-jmeter-5.1.1\lib\ext\ApacheJMeter_core.jar;D:\jmeter\apache-jmeter-5.1.1\lib\jorphan.jar;D:\bigDate_app\scala-2.11.8\bin;D:\bigDate_app\apache-maven-3.3.9\bin;D:\bigDate_app\hadoop-2.7.4\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;D:\heima_working\bin;D:\heima_working\myspl\bin;D:\bigDate_app\Git\cmd;D:\bigDate_app\TortoiseGit\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\atom\bin;$HADOOP_HOME%\bin;D:\bigDate_app\scala-2.11.8\bin;."/>
+    <property name="surefire.test.class.path" value="D:\git_space\muke\AutoTest\Chapter5\target\test-classes;D:\git_space\muke\AutoTest\Chapter5\target\classes;C:\Users\Administrator\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\Administrator\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\git_space\muke\AutoTest\Chapter5\target\test-classes;D:\git_space\muke\AutoTest\Chapter5\target\classes;C:\Users\Administrator\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\Administrator\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\develop\Java\jdk1.8.0_231\jre"/>
+    <property name="sun.java.command" value="D:\git_space\muke\AutoTest\Chapter5\target\surefire\surefirebooter7382269619050460030.jar D:\git_space\muke\AutoTest\Chapter5\target\surefire\surefire9091436514118660502tmp D:\git_space\muke\AutoTest\Chapter5\target\surefire\surefire8355220284589009996tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="java.ext.dirs" value="D:\develop\Java\jdk1.8.0_231\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\develop\Java\jdk1.8.0_231\jre\lib\resources.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\rt.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\jsse.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\jce.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\charsets.jar;D:\develop\Java\jdk1.8.0_231\jre\lib\jfr.jar;D:\develop\Java\jdk1.8.0_231\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="C:\Users\Administrator\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.course.testng.suite.LoginTest" name="loginTaoBao" time="0"/>
+  <testcase classname="com.course.testng.suite.PayTest" name="paySuccess" time="0"/>
+</testsuite>

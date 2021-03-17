@@ -1,0 +1,26 @@
+#surefire
+#Wed Mar 17 15:36:18 CST 2021
+classPathUrl.3=C\:\\Users\\Administrator\\.m2\\repository\\com\\beust\\jcommander\\1.48\\jcommander-1.48.jar
+classPathUrl.2=C\:\\Users\\Administrator\\.m2\\repository\\org\\testng\\testng\\6.10\\testng-6.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\git_space\\muke\\AutoTest\\Chapter5\\target\\classes
+reportsDirectory=D\:\\git_space\\muke\\AutoTest\\Chapter5\\target\\surefire-reports
+classPathUrl.0=D\:\\git_space\\muke\\AutoTest\\Chapter5\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.testng.TestNGProvider
+testSuiteDefinitionTestSourceDirectory=D\:\\git_space\\muke\\AutoTest\\Chapter5\\src\\test\\java
+surefireClassPathUrl.3=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.2=C\:\\Users\\Administrator\\.m2\\repository\\org\\codehaus\\plexus\\plexus-utils\\1.0.4\\plexus-utils-1.0.4.jar
+surefireClassPathUrl.1=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\maven\\maven-artifact\\2.0\\maven-artifact-2.0.jar
+testFwJarVersion=6.10
+surefireClassPathUrl.0=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-testng\\2.7.1\\surefire-testng-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+testSuiteXmlFiles0=D\:\\git_space\\muke\\AutoTest\\Chapter5\\src\\main\\resources\\suite.xml
+isTrimStackTrace=true
+testng.test.classpath=D\:\\git_space\\muke\\AutoTest\\Chapter5\\target\\test-classes
+enableAssertions=true
+failIfNoTests=false
+childDelegation=false

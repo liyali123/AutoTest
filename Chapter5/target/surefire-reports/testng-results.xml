@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test" duration-ms="50" started-at="2021-03-17T07:36:20Z" finished-at="2021-03-17T07:36:20Z">
+    <groups>
+    </groups>
+    <test name="login" duration-ms="15" started-at="2021-03-17T07:36:20Z" finished-at="2021-03-17T07:36:20Z">
+      <class name="com.course.testng.suite.SuiteConfig">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.course.testng.suite.SuiteConfig@721e0f4f]" name="beforeTest" is-config="true" duration-ms="0" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.course.testng.suite.SuiteConfig@721e0f4f]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.course.testng.suite.SuiteConfig -->
+      <class name="com.course.testng.suite.LoginTest">
+        <test-method status="PASS" signature="loginTaoBao()[pri:0, instance:com.course.testng.suite.LoginTest@28864e92]" name="loginTaoBao" duration-ms="1" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTaoBao -->
+      </class> <!-- com.course.testng.suite.LoginTest -->
+    </test> <!-- login -->
+    <test name="pay" duration-ms="2" started-at="2021-03-17T07:36:20Z" finished-at="2021-03-17T07:36:20Z">
+      <class name="com.course.testng.suite.SuiteConfig">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.course.testng.suite.SuiteConfig@19bb089b]" name="beforeSuite" is-config="true" duration-ms="6" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.course.testng.suite.SuiteConfig@19bb089b]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.course.testng.suite.SuiteConfig@19bb089b]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.course.testng.suite.SuiteConfig@19bb089b]" name="aftersuite" is-config="true" duration-ms="0" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.course.testng.suite.SuiteConfig -->
+      <class name="com.course.testng.suite.PayTest">
+        <test-method status="PASS" signature="paySuccess()[pri:0, instance:com.course.testng.suite.PayTest@4563e9ab]" name="paySuccess" duration-ms="0" started-at="2021-03-17T15:36:20Z" finished-at="2021-03-17T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paySuccess -->
+      </class> <!-- com.course.testng.suite.PayTest -->
+    </test> <!-- pay -->
+  </suite> <!-- test -->
+</testng-results>

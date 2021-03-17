@@ -23,4 +23,5 @@ public class SuiteConfig {
     public void afterTest(){
         System.out.println("afterTest");
     }
+
 }
